@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Linear Regression Model: Predicting Test Scores Based on Study Hours</title>
 </head>
 <body>
 
